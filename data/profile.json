@@ -1,13 +1,10 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "Charlles Miranda da Silva",
+  "photo": "https://avatars.githubusercontent.com/u/202844475?v=4",
+  "job": "Motoboy Express",
+  "location": "Jarim Campos - São Paulo - SP",
+  "phone": "(11) 94863-9820",
+  "email": "devcharllesmiranda@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -25,8 +22,10 @@
     ],
     "softSkills": [
       "Comunicação",
+      "Trabalho em Equipe",
+      "Flexibilidade",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Organização"
     ]
   },
   "idiomas": [
