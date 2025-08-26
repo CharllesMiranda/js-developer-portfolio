@@ -53,15 +53,21 @@
       "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Desenvolvedor front end",
+      "period": "dez de 2024 - até o momento",
+      "description": "Experiência no desenvolvimento de projetos utilizando as tecnologias: - HTML - CCS e JavaScript"
+    },
+    {
+      "name": "Charlles Motoboy Express",
+      "period": "mai de 2018 - até o momento",
+      "description": "Realizar entregas de mercadorias, documentos, alimentos e outros itens, de forma rápida e segura"
+    },
+    {
+      "name": "McDonald's",
+      "period": "ago de 2012 - set de 2014",
+      "description": "Responsável por treinar e desenvolver os funcionários da empresa para garantir que sejam treinados de forma a exercerem qualquer função na empresa. Identificar os talentos dos funcionários. Avaliar os funcionários para garantir o padrão da empresa. Corrigir erros nos procedimentos de forma imediata. Fazer planilhas de treinamentos mensais dos funcionários. Exercer todas as área quando não estivesse treinado algum funcionário nas horas de maior movimento."
     }
   ]
 }
