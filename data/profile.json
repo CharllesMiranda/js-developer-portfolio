@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Charlles Miranda da Silva",
+  "photo": "https://avatars.githubusercontent.com/u/202844475?v=4",
+  "job": "Motoboy Express",
+  "location": "Jarim Campos - São Paulo - SP",
+  "phone": "(11) 94863-9820",
+  "email": "devcharllesmiranda@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -29,46 +29,45 @@
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
+      "Comunicação",
+      "Trabalho em Equipe",
       "Flexibilidade",
+      "Empatia",
       "Organização"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Ingles (Iniciante)",
+    "Espanhol (Iniciante)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de uma página de serviços do Mario Bros",
+      "url": "https://github.com/CharllesMiranda/Mario-Bros-1000-Reais-7-Dias",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso na DIO de criação de uma Pokedex",
+      "url": "https://github.com/CharllesMiranda/js-developer-pokedex",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedor front end",
+      "period": "dez de 2024 - até o momento",
+      "description": "Experiência no desenvolvimento de projetos utilizando as tecnologias: - HTML - CCS e JavaScript"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Charlles Motoboy Express",
+      "period": "mai de 2018 - até o momento",
+      "description": "Realizar entregas de mercadorias, documentos, alimentos e outros itens, de forma rápida e segura"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "McDonald's",
+      "period": "ago de 2012 - set de 2014",
+      "description": "Responsável por treinar e desenvolver os funcionários da empresa para garantir que sejam treinados de forma a exercerem qualquer função na empresa. Identificar os talentos dos funcionários. Avaliar os funcionários para garantir o padrão da empresa. Corrigir erros nos procedimentos de forma imediata. Fazer planilhas de treinamentos mensais dos funcionários. Exercer todas as área quando não estivesse treinado algum funcionário nas horas de maior movimento."
     }
   ]
 }
