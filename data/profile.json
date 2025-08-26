@@ -45,12 +45,12 @@
     {
       "name": "Criação de uma página de serviços do Mario Bros",
       "url": "https://github.com/CharllesMiranda/Mario-Bros-1000-Reais-7-Dias",
-      "git": true
+      "github": true
     },
     {
       "name": "Curso na DIO de criação de uma Pokedex",
       "url": "https://github.com/CharllesMiranda/js-developer-pokedex",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
